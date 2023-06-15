@@ -1,0 +1,29 @@
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\bin\Debug\ComponenteUI.exe.config
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\bin\Debug\ComponenteUI.exe
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\bin\Debug\ComponenteUI.pdb
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.csproj.AssemblyReference.cache
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.Properties.Resources.resources
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.csproj.GenerateResource.cache
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.exe
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.pdb
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\bin\Debug\Proiect PIU.exe
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\bin\Debug\Proiect PIU.pdb
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\bin\Debug\Proiect PIU.exe.config
+C:\Users\Ionut\Desktop\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.csproj.CopyComplete
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\bin\Debug\ComponenteUI.exe.config
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\bin\Debug\ComponenteUI.exe
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\bin\Debug\ComponenteUI.pdb
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\bin\Debug\Proiect PIU.exe
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\bin\Debug\Proiect PIU.pdb
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\bin\Debug\Proiect PIU.exe.config
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.csproj.AssemblyReference.cache
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.Properties.Resources.resources
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.csproj.GenerateResource.cache
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.csproj.CopyComplete
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.exe
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.pdb
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\ComponenteUI\obj\Debug\ComponenteUI.Form1.resources

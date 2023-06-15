@@ -1,0 +1,16 @@
+C:\Users\Ionut\Desktop\Proiect PIU\bin\Debug\Proiect PIU.exe.config
+C:\Users\Ionut\Desktop\Proiect PIU\bin\Debug\Proiect PIU.exe
+C:\Users\Ionut\Desktop\Proiect PIU\bin\Debug\Proiect PIU.pdb
+C:\Users\Ionut\Desktop\Proiect PIU\obj\Debug\Proiect_PIU.csproj.AssemblyReference.cache
+C:\Users\Ionut\Desktop\Proiect PIU\obj\Debug\Proiect_PIU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ionut\Desktop\Proiect PIU\obj\Debug\Proiect_PIU.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\Desktop\Proiect PIU\obj\Debug\Proiect PIU.exe
+C:\Users\Ionut\Desktop\Proiect PIU\obj\Debug\Proiect PIU.pdb
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\bin\Debug\Proiect PIU.exe.config
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\bin\Debug\Proiect PIU.exe
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\bin\Debug\Proiect PIU.pdb
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\obj\Debug\Proiect_PIU.csproj.AssemblyReference.cache
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\obj\Debug\Proiect_PIU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\obj\Debug\Proiect_PIU.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\obj\Debug\Proiect PIU.exe
+C:\Users\Ionut\Desktop\New folder\Proiect PIU\obj\Debug\Proiect PIU.pdb

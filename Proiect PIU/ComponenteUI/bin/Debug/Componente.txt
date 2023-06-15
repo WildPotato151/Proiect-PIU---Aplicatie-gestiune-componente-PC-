@@ -1,0 +1,15 @@
+1;1;dadad;dqdqd;456;
+2;1;brand;model;555;
+3;1;dadqd;dqdqd;646;
+4;1;daqdad;adad;1414;
+5;1;dadqdq;qdqdqd;313;
+6;1;dadada;dqdqdq;4;
+7;7;dadada;dqdqdq;4;
+8;7;dadada;dqdqdq;4;
+9;3;d1qdqd;qdqdq;456;
+10;1;dadada;adadad455;445;
+11;1;dadq;dqdqd;3;
+12;1;dqdqdq;dqdqdq;3131;
+13;4;dqdqd;dqdq;3131;
+14;1;dadad;dadad;313;
+15;1;dadada;dadada;13;
